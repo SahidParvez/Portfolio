@@ -1,0 +1,80 @@
+
+
+
+img{
+    width: 40%;
+    margin-top: 20px;
+    
+}
+.col{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2em;
+    margin-top: 20px;
+    color: #16425b;
+}
+.text{
+    font-size: 1em;
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+li{
+    list-style: none;
+    padding: 1em;
+}
+.navbar{
+    background-color: #16425b
+}
+body{
+    background-color: #f0efeb;
+}
+.btn{
+    background-color: #16425b;
+    color: white;
+    margin-top: 10px;
+}
+.btn:hover{
+    background-color: white;
+    color: #16425b;
+}
+.education{
+    font-family: 'Open Sans', sans-serif;
+    color: #16425b;
+}
+.col-one{
+    background-color: #16425b;
+}
+.services{
+    font-family: 'Open Sans', sans-serif;
+    color: #16425b;
+}
+.service{
+    text-align: center;
+}
+.contact{
+    width: 50px;
+    height: auto;
+    
+}
+.contact-me{
+    font-family: 'Open Sans', sans-serif;
+    color: #16425b;
+}
+#contact{
+    text-align: center;
+    padding: 3rem 0;
+}
+.email-link{
+    text-decoration: none;
+}
+#footer{
+    text-align: center;
+    padding: 1rem;
+}
+.footer-link{
+    text-decoration: none;
+    padding: 0.2em;
+}
+.copyright{
+    font-size: 10px;
+    padding-top: 5px;
+}
